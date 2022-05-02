@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiaann&layout=compact)](https://github.com/iiiaann/github-readme-stats)
+[![iiiaann's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiiaann)](https://github.com/iiiaann/github-readme-stats)
