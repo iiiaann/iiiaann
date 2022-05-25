@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <img src="https://i.pinimg.com/originals/5b/d1/37/5bd1375eeed5e608ef9fe39fd00f1958.gif" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiaann&layout=compact&theme=omni)](https://github.com/iiiaann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiaann&layout=compact&theme=midnight-purple)](https://github.com/iiiaann/github-readme-stats)
