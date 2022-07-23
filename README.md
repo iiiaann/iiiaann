@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>What language do i speak?</summary>
-  
+  🇮🇩 Indonesian (Native Language) </br >
+  🇺🇸 American English
   
 </details>
 
