@@ -20,9 +20,15 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>Top Languages</summary>
+  <summary>Top Programming Languages</summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiaann&layout=compact&theme=midnight-purple)](https://github.com/iiiaann/github-readme-stats)
+</details>
+
+<details>
+  <summary>What language do i speak?</summary>
+  
+  
 </details>
 
 most of my repositories are private
