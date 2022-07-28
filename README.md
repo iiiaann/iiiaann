@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5b/d1/37/5bd1375eeed5e608ef9fe39fd00f1958.gif" />
+  <img src="https://i.pinimg.com/originals/26/a2/21/26a2216a2193598c00643035c4f8a867.gif" />
 </p>
 
 
