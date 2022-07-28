@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <details>
   <summary>What language do i speak?</summary>
   🇮🇩 Indonesian (Native Language) </br >
-  🇺🇸 American English (I'll take the TOEFL test soon) </br >
-  🇫🇷 French (Novice)
+  🇺🇸 American English (I'll take the TOEFL test soon)
   
 </details>
 
