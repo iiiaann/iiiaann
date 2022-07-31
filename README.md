@@ -30,4 +30,5 @@ Here are some ideas to get you started:
  
   - VK: iiiaann
   - E-mail: ian31.dev@gmail.com
+  - Instagram: navchx
 </details>
