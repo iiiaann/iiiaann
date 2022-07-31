@@ -18,13 +18,6 @@ Here are some ideas to get you started:
   <img src="https://i.pinimg.com/originals/26/a2/21/26a2216a2193598c00643035c4f8a867.gif" />
 </p>
 
-
-<details>
-  <summary>Top Programming Languages</summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiiaann&layout=compact&theme=midnight-purple)](https://github.com/iiiaann/github-readme-stats)
-</details>
-
 <details>
   <summary>What language do i speak?</summary>
   🇮🇩 Indonesian (Native Language) </br >
