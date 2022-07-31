@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Most of my repositories is private
+
+<details>
+  <summary>About me</summary>
+  
+- 🌱 Name: Rian
+- 💬 Languages: Indonesian (Native Speaker), English
+- 😄 Pronouns: He/Him
+</details>
 
 <details>
   <summary>⚡ Tech Stack</summary>
@@ -26,7 +35,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary>How to reach me</summary>
+  <summary>📫 How to reach me</summary>
  
   - VK: iiiaann
   - E-mail: ian31.dev@gmail.com
