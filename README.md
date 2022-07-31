@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 Tech Stack:
+- 😄 Pronouns: he/him
+- 📫 How to reach me: 
