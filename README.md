@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Most of my repositories is private
+Rian is a computer science student who interested in backend development, shell scripting, and everything related to open source project.
+</br > Most of my repositories is private.
 
 <details>
   <summary>About me</summary>
