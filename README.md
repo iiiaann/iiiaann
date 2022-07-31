@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>How to reach me</summary>
-  
-  - Linkedin: iiiaann
+ 
   - VK: iiiaann
   - E-mail: ian31.dev@gmail.com
 </details>
