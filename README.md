@@ -20,12 +20,12 @@ Rian is a computer science student who interested in backend development, shell 
   <summary>About me</summary>
   
 - 🌱 Name: Rian
-- 💬 Languages: Indonesian (Native Speaker), English
+- 💬 Languages: 🇮🇩 Indonesian (Native Speaker), 🇺🇸 American English
 - 😄 Pronouns: He/Him
 </details>
 
 <details>
-  <summary>⚡ Tech Stack</summary>
+  <summary>Tech Stack</summary>
   
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -37,7 +37,7 @@ Rian is a computer science student who interested in backend development, shell 
 </details>
 
 <details>
-  <summary>📫 How to reach me</summary>
+  <summary>How to reach me</summary>
  
   - VK: iiiaann
   - E-mail: ian31.dev@gmail.com
