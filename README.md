@@ -40,5 +40,5 @@ Rian is a computer science student since 3 years ago who interested in backend d
   <summary>How to reach me</summary>
  
   - E-mail: ian31.dev@gmail.com
-  - Instagram: [!navchx](https://www.instagram.com/navchx/)
+  - Instagram: [navchx](https://www.instagram.com/navchx/)
 </details>
